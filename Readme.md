@@ -1,10 +1,10 @@
 # blog-views
 
 Microservice that logs views for the realtime counters
-of [rauchg's blog](https://github.com/rauchg/blog), and prevents
+of [savits blog](https://github.com/hsavit1/blog), and prevents
 abuse by logging IPs.
 
-It's [aliased](https://zeit.co/blog/now-alias) to `https://rauchg-blog-views.now.sh`
+It's [aliased](https://zeit.co/blog/now-alias) to `https://savits-blog-views.now.sh`
 
 ## How to use
 
